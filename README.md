@@ -25,9 +25,20 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Describe why Java is called an object oriented, strongly typed language.
+
+**OO Programming, putting it succinctly, is the use of "objects". It's the idea of organizing and designing your code around these obects, rather than the use of logic and functions. Strongly Typed Languages are AMAZING and requires that each data type is defined before it can be executed (ex primitive data types, lists, etc.)**
+
 2. Give examples of Java Collections explaining the use and differences between them.
+
+**Collections are essentially different ways of storing data under a single variable. Some examples would be an array, arraylist, hashmap, etc. Each has its pros and cons. A hashmap, for example, can have different keys and is unordered, whereas an array has a set index key and is ordered.**
+
 3. What is recursion and how does it differ from regular looping?
+
+**The TK defines recursion as 'something that is defined in terms of itself'. Unlike regular looping, a recursive fn is also being used inside of the fn (careful of infinite loops!)**
+
 4. Explain the differences between Abstract Classes and Interfaces including scenarios of when to use them.
+
+**While both classes draw abstraction, Abstract Classes are good when a group of classes share methods / info, while Interfaces are really good when the use of certain methods are required in the classes that implement the interface class.**
 
 ## Instructions
 
