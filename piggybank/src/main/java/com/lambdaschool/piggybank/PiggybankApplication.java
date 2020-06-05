@@ -67,6 +67,7 @@ public class PiggybankApplication {
             System.out.println(m.strValuePlural());
             myValue = myValue + m.getValue();
         }
+
         System.out.println("Piggy Bank Now Has " + DecFormat.format(myValue));
     }
 
